@@ -1,0 +1,12 @@
+.projects-container {
+  flex: 1;
+  flex-direction: column;
+  border-radius: 20px;
+  background-color: white;
+  color: darkgrey;
+}
+.projects-title-sector {
+  display: flex;
+  padding: 20px;
+  width: 100%;
+}

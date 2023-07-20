@@ -1,0 +1,16 @@
+.action-container {
+  display: flex;
+  align-items: center;
+  padding: 10px 25px;
+}
+.button-sector {
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  flex: 1;
+}
+.profile-sector {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+}
